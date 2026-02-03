@@ -1,0 +1,480 @@
+[ AutoCAD - Wed Jan 01 16:50:26 2025  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+Regenerating layout.
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: CMPH_LLSTART
+Initializing LiveLink for COMSOL
+Customization file loaded successfully. Customization Group: AMPP
+Customization file loaded successfully. Customization Group: AMACAD
+Customization file loaded successfully. Customization Group: MODELDOC
+Customization file loaded successfully. Customization Group: EXPRESS
+Customization file loaded successfully. Customization Group: APPMANAGER
+Customization file loaded successfully. Customization Group: FEATUREDAPPS
+Customization file loaded successfully. Customization Group: LIVELINKFORCOMSOL
+
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Too many objects selected for INTERSECT
+
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+Too many objects selected for INTERSECT
+
+
+
+
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _amautodim
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMAUTODIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM_DIA 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM_DIA 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>:  Regenerating model.
+
+Resuming AMPOWERDIM command.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+Too many objects selected for INTERSECT
+
+
+
+
+
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _amautodim
+
+
+
+
+
+
+
+Select objects [Block]: *Cancel*
+
+Command: 
+Command: _amautodim
+
+
+
+
+
+
+
+Select objects [Block]: *Cancel*
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Too many objects selected for INTERSECT
+
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Too many objects selected for INTERSECT
+
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+Checking 703 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>:  
+Resuming AMPOWERDIM command.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>:  
+Resuming AMPOWERDIM command.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: _Options 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

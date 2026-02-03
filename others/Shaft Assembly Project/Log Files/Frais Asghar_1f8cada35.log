@@ -1,0 +1,3595 @@
+[ AutoCAD - Thu Jan 02 10:23:24 2025  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: CMPH_LLSTART
+Initializing LiveLink for COMSOL
+Customization file loaded successfully. Customization Group: AMPP
+Customization file loaded successfully. Customization Group: AMACAD
+Customization file loaded successfully. Customization Group: MODELDOC
+Customization file loaded successfully. Customization Group: EXPRESS
+Customization file loaded successfully. Customization Group: APPMANAGER
+Customization file loaded successfully. Customization Group: FEATUREDAPPS
+Customization file loaded successfully. Customization Group: LIVELINKFORCOMSOL
+
+
+Command: 
+Command:  
+Command: D
+DIMSTYLE 
+Dimension disassociated.
+Command:  
+Command:  
+Command:  
+Command: D
+DIMSTYLE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _.DIMREASSOCIATE
+
+Select dimensions to reassociate ...1 found
+
+Specify first extension line origin or [Select object] <next>: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: *Cancel*
+
+Command:  
+Command: D
+DIMSTYLE 
+Command:  
+Command:  
+Command: _.ERASE
+1 found
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 528 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 528 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 528 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: _.DIMREASSOCIATE
+
+Select dimensions to reassociate ...1 found
+
+Specify first extension line origin or [Select object] <next>: 
+Checking 820 intersections... 
+Specify second extension line origin <next>: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 DIMREASSOCIATE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 INTELLIZOOM '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 DIMSTYLE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 DIMSTYLE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 '.3DPAN2 INTELLIZOOM '.3DPAN2 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 ERASE 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: *Cancel*
+
+Command: JOIN
+
+Select source object or multiple objects to join at once: 1 found
+Select objects to join: 1 found (1 duplicate), 1 total
+Select objects to join: 1 found (1 duplicate), 1 total
+Select objects to join: 
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: *Cancel*
+
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: N
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: 
+
+Dimension extension disassociated.
+Command: *Cancel*
+
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Dimension disassociated.
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_4d61fbed.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle: 
+
+Dimension disassociated.
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: *Cancel*
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 630 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: DIM
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: DI
+DIST 
+Specify first point: 
+Checking 595 intersections... 
+Specify second point or [Multiple points]: 
+Checking 561 intersections... 
+Distance = 75.8483,  Angle in XY Plane = 0,  Angle from XY Plane = 0
+Delta X = 75.8482,  Delta Y = 0.0000,   Delta Z = -0.0528
+
+Command: DIM
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Checking 561 intersections... 
+Specify second extension line origin or [Undo]:
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _v 
+Command: 
+UCS
+
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: 
+Specify point on the XY plane or <accept>: 
+
+Points are colinear
+
+Specify point on the XY plane or <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Y AXIS DIRECTION ** 
+Specify a point on Y axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: *Cancel*
+
+Command: 
+
+** Y AXIS DIRECTION ** 
+Specify a point on Y axis: 
+Command: 
+.UNDO
+Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: *Cancel*
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: DIM
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Checking 595 intersections... 
+Specify second extension line origin or [Undo]:
+Checking 561 intersections... 
+Specify dimension line location or second line for angle [Mtext/Text/text aNgle/Undo]:
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension:  
+Resuming AMPOWERDIM command.
+
+
+Select arc, circle, line or dimension: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 UCS 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 AMPOWERDIM 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 UCS 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 INTELLIZOOM 
+Everything has been redone
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_4d61fbed.sv$ ...
+
+Command: 
+Command: 
+Command: 
+UCS
+
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: 
+Specify point on the XY plane or <accept>: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Y AXIS DIRECTION ** 
+Specify a point on Y axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: DIM
+
+Select objects or specify first extension line origin or [Angular/Baseline/Continue/Ordinate/aliGn/Distribute/Layer/Undo]:
+Select line to specify extension lines origin:*Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Regenerating layout.
+Regenerating model - caching viewports.
+
+Command: 
+Command: 
+Command: _ampartlist 
+Current BOM = MAIN
+
+
+Specify BOM to create or set current [Main/?]  <MAIN>: *Cancel*
+
+Command cancelled
+
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPARTLIST 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+Restoring cached viewports.
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ACUCSEDITACTION 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: *Cancel*
+
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: *Cancel*
+
+Command: 
+
+** MOVE ORIGIN ONLY ** 
+Specify origin point: *Cancel*
+
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _amautodim
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_4d61fbed.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: 
+
+Dimension disassociated.
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle:  
+Resuming AMPOWERDIM_DIA command.
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM_DIA 
+Command: *Cancel*
+
+Command:  
+**** System Variable Changed ****
+1 of the monitored system variables has changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: 
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+
+** X AXIS DIRECTION ** 
+Specify a point on X axis: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+Object selected is not an arc, circle or polyline arc segment.
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+AMPOWERDIM_DIA
+
+
+
+
+Select arc or circle: 
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle:  
+Resuming AMPOWERDIM_DIA command.
+
+
+Select arc or circle:  
+Resuming AMPOWERDIM_DIA command.
+
+
+Select arc or circle: 
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+Command: 
+AMPOWERDIM_DIA
+
+
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command:  *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Xflip/Yflip] <accept>: 
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Y AXIS DIRECTION ** 
+Specify a point on Y axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Y AXIS DIRECTION ** 
+Specify a point on Y axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+Checking 990 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: 
+
+Dimension extension disassociated.
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: 
+
+Dimension extension disassociated.
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Select arc, circle, line or dimension: 
+
+Command: *Cancel*
+
+Command: 
+AMPOWERDIM
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>:  
+Resuming AMPOWERDIM command.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_4d61fbed.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 AMPOWERDIM 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]:  
+Resuming AMPOWERDIM command.
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: d
+
+Point or option keyword required.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: D
+DIMSTYLE 
+Dimension disassociated.
+Dimension disassociated.
+Command:  
+Command: 
+DIMSTYLE
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+AMPOWERDIM_RAD
+
+
+
+
+Select arc or circle: 
+
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _ampowerdim_rad 
+
+
+
+Select arc or circle: 
+
+
+
+
+
+
+
+Specify dimension line location or [Linear/Options]: 
+
+
+
+
+
+
+
+
+Select arc or circle: 
+
+Dimension disassociated.
+Command: *Cancel*
+
+Command: 
+AMPOWERDIM_RAD
+
+
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _QSave 
+Command: ANNOMONITOR
+
+Enter new value for ANNOMONITOR <2>: 0
+
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: '_amlayer 
+Regen queued.
+Command: certral
+Unknown command "CERTRAL".  Press F1 for help.
+
+Command: *Cancel*
+
+Command: '_amlayer 
+Regen queued.
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: '_amlayer 
+Regen queued.
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: '_amlayer 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+
+Command: LTS
+LTSCALE Enter new linetype scale factor <1.0000>: 5
+
+Command: '_amlayer 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+*Cancel*
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 130
+
+Enter name list of layer(s) for color 130 <center>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _LOCK
+
+Enter name list of layer(s) to lock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _UNLOCK
+
+Enter name list of layer(s) to unlock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _LOCK
+
+Enter name list of layer(s) to lock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _UNLOCK
+
+Enter name list of layer(s) to unlock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _LOCK
+
+Enter name list of layer(s) to lock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _UNLOCK
+
+Enter name list of layer(s) to unlock or <select objects>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: '_amlayer 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _Laymcur 
+Select object whose layer will become current: *Cancel*
+*cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _.erase 2 found
+
+Command: '_amlayer 
+Regen queued.
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "center"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 130
+
+Enter name list of layer(s) for color 130 <center>: =center
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _Laymcur 
+Select object whose layer will become current: *Cancel*
+*cancel*
+
+Command: 
+Command: _Laymcur 
+Select object whose layer will become current: *Cancel*
+*cancel*
+
+Command: 
+Command: _Laymcur 
+Select object whose layer will become current: *Cancel*
+*cancel*
+
+Command: 
+Command: _Laymcur 
+Select object whose layer will become current: *Cancel*
+*cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_20851_c202f4c9.sv$ ...
+
+Command: 
+Command: 
+Command: 
+
+** MOVE AND ALIGN ** 
+Specify origin point or align to face, surface, or mesh: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: _pline 
+Specify start point: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Selection of isoline from a face of the solid ignored.
+
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: *Cancel*
+
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _ob 
+Select object to align UCS: 
+Command: 
+UCS
+
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: 
+Specify point on X-axis or <accept>: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+
+** Z AXIS DIRECTION ** 
+Specify a point on Z axis: 
+Command: 
+PLINE
+
+Specify start point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Regenerating layout.
+Regenerating model - caching viewports.
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Restoring cached viewports.
+
+Command: 
+
+Select objects to add or [Remove/Entire model/LAYout] <return to layout>: 
+1 found
+
+
+Select objects to add or [Remove/Entire model/LAYout] <return to layout>: 1 found (1 duplicate), 1 total
+
+
+Select objects to add or [Remove/Entire model/LAYout] <return to layout>: 
+Restoring cached viewports - Regenerating layout.
+
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 RECTANG 
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 7
+
+Enter name list of layer(s) for color 7 (white) <0>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: '_amlayer 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: '_amlayer 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: 
+Command: _laymch 
+Select objects to be changed:
+Select objects: *Cancel*
+
+Command: 
+Command: _laymch 
+Select objects to be changed:
+Select objects: *Cancel*
+
+Command: 
+Command: _laymch 
+Select objects to be changed:
+Select objects: '_amlayer 
+Resuming LAYMCH command.
+
+Select objects: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _LOCK
+
+Enter name list of layer(s) to lock or <select objects>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _UNLOCK
+
+Enter name list of layer(s) to unlock or <select objects>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _LOCK
+
+Enter name list of layer(s) to lock or <select objects>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _UNLOCK
+
+Enter name list of layer(s) to unlock or <select objects>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _group Select objects or [Name/Description]: *Cancel*
+
+Command: 
+Command: _group Select objects or [Name/Description]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+Restoring cached viewports.
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+
+Command: '_amlayer 
+Regen queued.Regenerating layout.
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 RECTANG 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 'AMLAYER 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LAYOUT_CONTROL 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _TILEMODE
+
+Enter new value for TILEMODE <1>: 1
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _TILEMODE
+
+Enter new value for TILEMODE <1>: 1
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Regenerating layout.
+
+Command: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+Restoring cached viewports.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

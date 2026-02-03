@@ -1,0 +1,2900 @@
+[ AutoCAD - Tue Dec 24 14:45:42 2024  ]----------------------------------------
+
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:10
+
+1 extrusion(s) created
+Select object or bounded area:
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]:  Regenerating model.
+
+Resuming CIRCLE command.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 CIRCLE Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <30.0000>: 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 CIRCLE 
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <30.0000>: *Cancel*
+
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]:  <Polar off>  <Polar on> _.ISODRAFT
+
+Point or option keyword required.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: _Top 
+Point or option keyword required.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: _.ISODRAFT
+
+Point or option keyword required.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: _Left 
+Point or option keyword required.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]:  <Ortho on>  <Ortho off> c
+
+Point or option keyword required.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <30.0000>: 42
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 CIRCLE 
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <30.0000>: d
+Specify diameter of circle <60.0000>: 42
+
+Command: 
+Command: _.erase 1 found
+
+Command: EXT
+EXTRUDE 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: l
+1 found
+
+Select objects to extrude or [MOde]: 1 found (1 duplicate), 1 total
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-10.0000>: 42
+
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: EXT
+EXTRUDE 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: l
+1 found
+
+Select objects to extrude or [MOde]: 
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]:  Regenerating model.
+
+Resuming EXTRUDE command.
+
+Select objects to extrude or [MOde]: *Cancel*
+*Cancel*
+
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 EXTRUDE Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 EXTRUDE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 ERASE 
+Command: EXT
+EXTRUDE 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: l
+1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-42.0000>: 40
+
+
+Command:  Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _-vports 
+Enter an option [Save/Restore/Delete/Join/SIngle/?/2/3/4/Toggle/MOde] <3>: _mo 
+Apply viewport configuration to [Display/Current viewport] <Display>: _d 
+Enter an option [Save/Restore/Delete/Join/SIngle/?/2/3/4/Toggle/MOde] <3>: _2 
+Enter a configuration option [Horizontal/Vertical] <Vertical>: _v Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _close 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 CLOSE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 -VPORTS Regenerating model.
+
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _front Regenerating model.
+
+Command: Regenerating model.
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_29095_f37028d7.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '-VIEW Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <21.0000>: d
+Specify diameter of circle <42.0000>: 35
+
+Command: 
+Command: _.erase 1 found
+
+Command: EXT
+EXTRUDE 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: l
+1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <40.0000>: 105
+
+
+Command:  Regenerating model.
+
+Command: L
+LINE 
+Specify first point: *Cancel*
+
+Command: L
+LINE 
+Specify first point: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _QSave 
+Command: M
+MOVE 
+Select objects: l
+1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 7.5
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:64
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: M
+MOVE 
+Window Lasso  Press Spacebar to cycle options0 found
+Select objects: 
+
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options5 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: L
+LINE 
+Specify first point:  Regenerating model.
+
+Resuming LINE command.
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command:  <Dynamic UCS off> 
+Command:  <Dynamic UCS on> 
+Command:  <Osnap off> 
+Command:  <Osnap on> 
+Command: 
+Command: 
+Command: _pline 
+Specify start point: *Cancel*
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: *Cancel*
+
+Command: M
+MOVE 
+Select objects: *Cancel*
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options6 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  Regenerating model.
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command: 
+Command: *Cancel*
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options7 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command:  Regenerating model.
+
+Command: M
+MOVE 
+Window Lasso  Press Spacebar to cycle options1 found
+
+Select objects: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: M
+MOVE 
+Window Lasso  Press Spacebar to cycle options0 found
+Select objects: Specify opposite corner: 3 found
+
+Select objects: *Cancel*
+
+Command: M
+MOVE 
+Select objects: Specify opposite corner: 7 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command:  Regenerating model.
+
+Command: M
+MOVE 
+Select objects: Specify opposite corner: *Cancel*
+0 found
+Select objects: m
+
+Select objects: 
+Specify opposite corner: Specify opposite corner: 2 selected, 1 found
+
+Select objects: *Cancel*
+
+Command: M
+MOVE 
+Select objects: Specify opposite corner: 1 found
+
+Select objects: *Cancel*
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options6 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  Regenerating model.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: M
+MOVE 
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: M
+MOVE 
+Select objects: l
+1 found
+
+Select objects: l
+1 found (1 duplicate), 1 total
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: 1 found (1 duplicate), 2 total
+
+Select objects: Specify opposite corner: 0 found
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: J
+JOIN 
+Select source object or multiple objects to join at once: 1 found
+Select objects to join: 
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object:  
+Resuming JOIN command.
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object:  
+Resuming JOIN command.
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: 
+
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _+UCSMAN 
+Tab index <0>: 2 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: LI
+LIST 
+Select objects: Specify opposite corner: *Cancel*
+0 found
+Select objects: *Cancel*
+
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 76
+
+Specify next point or [Undo]: *Cancel*
+
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Undo]: *Cancel*
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <17.5000>: d
+Specify diameter of circle <35.0000>: 10
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <5.0000>: d
+Specify diameter of circle <10.0000>: 15
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <7.5000>: d
+Specify diameter of circle <15.0000>: 30
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options2 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+
+Specify displacement <0.0000, 0.0000, 0.0000>: *Cancel*
+
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options2 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 43
+
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command:  
+Command: M
+MOVE 
+Crossing Lasso  Press Spacebar to cycle options2 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 43
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_20655_e97cfbe3.sv$ ...
+
+Command: 
+Command: 
+Command: M
+MOVE 
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: MI
+MIRROR 
+Select objects: ;
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: 
+
+Command: TR
+TRIM 
+View is not plan to UCS. Command results may not be obvious.
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: _QSave 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:10
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: M
+MOVE 
+Window Lasso  Press Spacebar to cycle options0 found
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command: COPY
+
+Select objects:  
+Resuming COPY command.
+
+Select objects: 1 found
+
+Select objects: 1 found (1 duplicate), 1 total
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _top 
+Command:  
+Command: '_perspective 
+Enter new value for PERSPECTIVE <0>: 1 
+Command:  
+Command:  
+Command: '_perspective 
+Enter new value for PERSPECTIVE <1>: 0 
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _swiso 
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _swiso 
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _top 
+Command: 
+Command: 
+Command: _rotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Specify rotation angle or [Copy/Reference] <0>:  
+Resuming ROTATE command.
+
+Specify rotation angle or [Copy/Reference] <0>: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects:  
+Resuming 3DROTATE command.
+
+Select objects:  
+Resuming 3DROTATE command.
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+
+Invalid point.
+
+Specify base point: 
+
+Invalid point.
+
+Specify base point:  
+Resuming 3DROTATE command.
+
+Specify base point: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 270
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+
+ 
+** SCALE **
+Specify scale factor or [Base point/Copy/Undo/Reference/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Pick a rotation axis: 
+Specify angle start point or type an angle: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 90
+
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Oblique, non-uniformly scaled objects were ignored.
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 90
+
+Command: 
+3DROTATE
+
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: *Cancel*
+
+Command:  
+Command: 
+Command:  
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]:  Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: ampoweredit
+
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_18031_0116638f.sv$ ...
+
+Command: 
+Command: 
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:
+
+1 extrusion(s) created
+Select object or bounded area:
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PRESSPULL 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: ampoweredit
+
+Enter an option [Next/Accept] <Accept>: *Cancel*
+Command cancelled
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command: 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.ACGZDRAGACTION 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT Regenerating model.
+
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 VSCURRENT 
+Command:  
+Command: UNION
+
+Window Lasso  Press Spacebar to cycle options0 found
+Select objects: 
+
+Window Lasso  Press Spacebar to cycle options
+Command: 
+UNION
+
+Select objects: 
+
+Command: 
+UNION
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 UNION 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 UNION 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 UNION 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 GROUP 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 VSCURRENT 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <Realistic>: _2d Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 74
+
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Window Lasso  Press Spacebar to cycle options
+Crossing Lasso  Press Spacebar to cycle options
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  Regenerating model.
+
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 3 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  Regenerating model.
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 74
+
+Specify next point or [Undo]: *Cancel*
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <15.0000>: d
+Specify diameter of circle <30.0000>: 10
+
+Command:  Regenerating model.
+
+Command: C
+CIRCLE 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <5.0000>: d
+Specify diameter of circle <10.0000>: 30
+
+Command: M
+MOVE 
+Window Lasso  Press Spacebar to cycle options0 found
+Select objects: Specify opposite corner: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 43
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_18031_0116638f.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PLINE 
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: M
+MOVE 
+Select objects: l
+1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: MI
+MIRROR 
+Select objects: l
+1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: 
+
+Command: TR
+TRIM 
+View is not plan to UCS. Command results may not be obvious.
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 
+Nothing selected.
+
+Command: 
+EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: 
+Nothing selected.
+
+Command: 
+Command: 
+Command: _QSave 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: Specify opposite corner: *Cancel*
+0 found
+Select objects to extrude or [MOde]: join
+
+
+*Invalid selection*
+Expects a point or Window/Last/Crossing/BOX/ALL/Fence/WPolygon/CPolygon/Group/Add/Remove/Multiple/Previous/Undo/AUto/SIngle/SUbobject/Object
+
+Window Lasso  Press Spacebar to cycle options1 found
+
+Select objects to extrude or [MOde]: 1 found, 2 total
+
+Select objects to extrude or [MOde]: 1 found, 3 total
+
+Select objects to extrude or [MOde]: 1 found, 4 total
+
+Select objects to extrude or [MOde]: 1 found, 5 total
+
+Select objects to extrude or [MOde]: 1 found, 6 total
+
+Select objects to extrude or [MOde]: 
+
+2 objects removed from selection set.
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-14.3663>: *Cancel*
+
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:
+Command:  Regenerating model.
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIPAN 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PRESSPULL 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 EXTRUDE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 QSAVE Regenerating model.
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 EXTRUDE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 EXTRUDE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 TRIM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MIRROR 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIPAN INTELLIPAN INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 MOVE 
+Command:  Regenerating model.
+
+Command: 
+Command: _.erase 1 found
+
+Command: L
+LINE 
+Specify first point: 
+Specify next point or [Undo]: 10
+
+Specify next point or [Undo]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: M
+MOVE 
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 43
+
+Command: 
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+
+Command: MI
+MIRROR 
+Select objects: l
+1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 
+Specify first point of mirror line: 
+Specify second point of mirror line: 
+Erase source objects? [Yes/No] <No>: 
+
+Command: TR
+TRIM 
+View is not plan to UCS. Command results may not be obvious.
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command:  Regenerating model.
+
+Command: 
+Command: 
+Command: _QSave 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area: Regenerating model.
+
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+1 loop extracted.
+
+
+1 Region created.
+
+1 loop extracted.
+
+
+1 Region created.
+Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:*Cancel*
+
+1 extrusion(s) created
+Select object or bounded area:
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _vscurrent 
+Enter an option [2dwireframe/Wireframe/Hidden/Realistic/Conceptual/Shaded/shaded with Edges/shades of Gray/SKetchy/X-ray/Other] <2dwireframe>: _r 
+Command: 
+Command: 
+Command: _presspull 
+Select object or bounded area:Select solids, surfaces, and regions to subtract from ..
+Subtracting inner regions...
+
+Specify extrusion height or [Multiple]:
+Specify extrusion height or [Multiple]:10
+
+1 extrusion(s) created
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area: 
+Resuming PRESSPULL command.
+
+Select object or bounded area:
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 270
+
+Command:  
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: COPY
+
+Select objects: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command:  
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Command: _.erase 4 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: UNION
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects: 1 found, 6 total
+
+Select objects: 
+
+
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: 
+Checking 595 intersections... 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+Command:  
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Checking 630 intersections... 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 0
+
+Command: 
+3DROTATE
+
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: 
+
+Pick a rotation axis: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _3dmove 
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: COLOR
+
+Command:  
+Command: 
+Command: 
+COLOR
+
+Command:  
+Command: 
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: COLOR
+
+Command: 
+Command: 
+COLOR
+
+Command:  
+Command: PR
+PROPERTIES 
+Command: _.PSELECT 
+Select objects: 1 found
+
+Select objects: *Cancel*
+
+**** System Variable Changed ****
+1 of the monitored system variables has changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+Command: PR
+PROPERTIES 
+Command: _.PSELECT 
+Select objects: 1 found
+
+Select objects: 
+
+Command: *Cancel*
+
+Command: ISOLINES
+
+Enter new value for ISOLINES <4>: 
+
+Command: 
+Command: 
+ISOLINES
+
+Enter new value for ISOLINES <4>: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ISOLINES 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ISOLINES 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PSELECT 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PROPERTIES 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PSELECT 
+**** No System Variable Changed ****
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 PROPERTIES 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 COLOR 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 COLOR 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: BREAK
+
+Select object: Object can't be broken
+
+Select object: 
+
+Command: 
+Command: 
+BREAK
+
+Select object:  
+Resuming BREAK command.
+
+Select object:  
+Resuming BREAK command.
+
+Select object: '_.zoom 
+>>Specify corner of window, enter a scale factor (nX or nXP), or 
+[All/Center/Dynamic/Extents/Previous/Scale/Window/Object] <real time>: _e 
+Resuming BREAK command.
+
+Select object:  
+Resuming BREAK command.
+
+Select object:  
+Resuming BREAK command.
+
+Select object: *Cancel*
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_27990_9e1f3755.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: SUb
+Unknown command "SUB".  Press F1 for help.
+
+Command: 
+Command: 
+BREAK
+
+Select object: Object can't be broken
+
+Select object: 
+
+Command: 
+Command: 
+BREAK
+
+Select object: 
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Specify second point on plane: 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Specify second point on plane: 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Checking 528 intersections... 
+Specify second point on plane: 
+Checking 561 intersections... 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Specify second point on plane: 
+Too many objects selected for INTERSECT
+
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Specify second point on plane: 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Checking 1035 intersections... 
+Specify second point on plane: 
+Checking 1081 intersections... 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command:  
+Command: '_.zoom 
+Specify corner of window, enter a scale factor (nX or nXP), or 
+[All/Center/Dynamic/Extents/Previous/Scale/Window/Object] <real time>: _e 
+Command:  
+Command:  
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Too many objects selected for INTERSECT
+
+Specify second point on plane: 
+Checking 780 intersections... 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Too many objects selected for INTERSECT
+
+Specify second point on plane: 
+Too many objects selected for INTERSECT
+
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Command: 
+Command: 
+SLICE
+
+Select objects to slice: 1 found
+
+Select objects to slice: 
+
+Specify start point of slicing plane or [planar Object/Surface/Zaxis/View/XY/YZ/ZX/3points] <3points>: 
+Too many objects selected for INTERSECT
+
+Specify second point on plane: 
+Checking 1176 intersections... 
+Specify a point on desired side or [keep Both sides] <Both>: 
+
+
+Slicing plane does not intersect the selected solid.
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.ZOOM '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SLICE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 BREAK 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 BREAK 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 BREAK 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 BREAK 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 COLOR 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 COLOR 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 3DMOVE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 3DROTATE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 3DROTATE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 3DROTATE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM '.3DPAN2 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 '.ACGZDRAGACTION 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 3DROTATE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 menu item 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 QSAVE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 UNION 
+Command: PR
+PROPERTIES 
+Command: _.PSELECT 
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 
+
+Command: 
+Command: 
+.PSELECT
+
+Select objects:  
+Resuming PSELECT command.
+
+Select objects:  
+Resuming PSELECT command.
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: UNION
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: UNION
+
+Window Lasso  Press Spacebar to cycle options3 found
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects:  
+Resuming UNION command.
+
+Select objects: 1 found, 6 total
+
+Select objects: 1 found, 7 total
+
+Select objects: 1 found, 8 total
+
+Select objects: 1 found, 9 total
+
+Select objects: 
+
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_27990_9e1f3755.sv$ ...
+
+Command: 
+Command: 
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command:  
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _3drotate 
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point: 
+Too many objects selected for INTERSECT
+
+ 
+** ROTATE **
+Specify rotation angle or [Base point/Copy/Undo/Reference/eXit]: 
+Command:  
+Command: 
+3DROTATE
+
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+1 found
+
+Specify base point: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command: _.VIEWSTD 
+Command: _.PAGESETUP 
+Command: _.VIEWSTD 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Regenerating layout.
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: M
+
+Specify second point or <use first point as displacement>: *Cancel*
+
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+
+Base and 3 projected view(s) created successfully.
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+Restoring cached viewports.
+
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

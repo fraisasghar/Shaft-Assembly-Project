@@ -1,0 +1,460 @@
+[ AutoCAD - Wed Jan 01 16:59:47 2025  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+Regenerating layout.
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: CMPH_LLSTART
+Initializing LiveLink for COMSOL
+Customization file loaded successfully. Customization Group: AMPP
+Customization file loaded successfully. Customization Group: AMACAD
+Customization file loaded successfully. Customization Group: MODELDOC
+Customization file loaded successfully. Customization Group: EXPRESS
+Customization file loaded successfully. Customization Group: APPMANAGER
+Customization file loaded successfully. Customization Group: FEATUREDAPPS
+Customization file loaded successfully. Customization Group: LIVELINKFORCOMSOL
+
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh:  
+Resuming UCS command.
+
+Select face of solid, surface, or mesh:  
+Resuming UCS command.
+
+Select face of solid, surface, or mesh:  
+Resuming UCS command.
+
+Select face of solid, surface, or mesh:  
+Resuming UCS command.
+
+Select face of solid, surface, or mesh:  
+Resuming UCS command.
+
+Select face of solid, surface, or mesh: *Cancel*
+
+Command: JOIN
+
+Select source object or multiple objects to join at once: 1 found
+Select objects to join: 
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object:  
+Resuming JOIN command.
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object:  
+Resuming JOIN command.
+
+Line, open polyline, arc, elliptical arc, or open spline expected.  Select a supported object: *Cancel*
+
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 561 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 820 intersections... 
+
+
+
+Specify second extension line origin: 
+Checking 561 intersections... 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: _Options 
+Point or option keyword required.
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: _Options 
+Command: _Options 
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+Checking 595 intersections... 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 38
+
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_b5251196.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _ampowerdim_dia 
+
+
+
+Select arc or circle: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: 
+
+
+
+
+
+
+Specify dimension line location or
+[Horizontal/Vertical/Aligned/Rotated/Placement options]: 
+
+
+
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: 
+
+
+
+Specify second extension line origin: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: 
+Command: _ampowerdim
+
+
+
+Specify first extension line origin or
+[Linear/Angular/Radial/chaMfer/Baseline/Chain/Update] <select object>: *Cancel*
+Command cancelled
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

@@ -1,0 +1,397 @@
+[ AutoCAD - Thu Jan 02 11:41:21 2025  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: CMPH_LLSTART
+Initializing LiveLink for COMSOL
+Customization file loaded successfully. Customization Group: AMPP
+Customization file loaded successfully. Customization Group: AMACAD
+Customization file loaded successfully. Customization Group: MODELDOC
+Customization file loaded successfully. Customization Group: EXPRESS
+Customization file loaded successfully. Customization Group: APPMANAGER
+Customization file loaded successfully. Customization Group: FEATUREDAPPS
+Customization file loaded successfully. Customization Group: LIVELINKFORCOMSOL
+
+
+Command: 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *NO NAME*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: 
+Enter an option [Next/Xflip/Yflip] <accept>: 
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: '_amlayer 
+Regen queued.
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: U
+
+Specify next point or [Undo]: *Cancel*
+
+Command:  
+Command: 
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command:  
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Regenerating layout.
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 250
+
+Enter name list of layer(s) for color 250 <0>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _v 
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: *Cancel*
+
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _v 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _ucs 
+Current ucs name:  *WORLD*
+Specify origin of UCS or [Face/NAmed/OBject/Previous/View/World/X/Y/Z/ZAxis] <World>: _fa 
+Select face of solid, surface, or mesh: *Cancel*
+
+Command: 
+Command: _layon 
+All layers have been turned on.
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command:  
+Enter new value for WSCURRENT <"3D Modeling">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"Mechanical">: *Cancel*
+
+Command: TILEMODE 
+Enter new value for TILEMODE <0>: 1
+Restoring cached viewports.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Enter new value for WSCURRENT <"Mechanical">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"Structure">: *Cancel*
+
+Command:  
+Enter new value for WSCURRENT <"Structure">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Modeling">: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: rgsgrt
+
+Point or option keyword required.
+Specify start point of text or [Justify/Style]: *Cancel*
+
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _amlaymove 
+Select objects: 
+Command: '_.VPLAYER
+>>Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: _FREEZE
+
+>>Enter layer name(s) to freeze or <specify layers by object selection>: =0
+
+>>Specify viewport(s) [All/Select/Current/eXcept current] <Current>: _CURRENT
+>>Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: 
+
+Resuming AMLAYMOVE command.
+
+Command: Specify opposite corner: 0 found
+Select objects: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: '_.VPLAYER
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: _THAW
+
+Enter layer name(s) to thaw: =0
+
+Specify viewport(s) [All/Select/Current/eXcept current] <Current>: _CURRENT
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: 
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _layoff 
+Current settings: Viewports=Off, Block nesting level=Block
+Select an object on the layer to be turned off or [Settings/Undo]: 
+Nothing Selected.
+
+Select an object on the layer to be turned off or [Settings/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: '_amlayer 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_97f5ece5.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _polygon Enter number of sides <4>: *Cancel*
+
+Command: 
+Command: _polygon Enter number of sides <4>: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: '_amlayer 
+Regen queued.Regenerating layout.
+
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: 
+Enter next point or [end Tangency/toLerance/Undo/Close]: 
+Enter next point or [end Tangency/toLerance/Undo/Close]: 
+Enter next point or [end Tangency/toLerance/Undo/Close]: 
+Enter next point or [end Tangency/toLerance/Undo/Close]: 
+Enter next point or [end Tangency/toLerance/Undo/Close]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

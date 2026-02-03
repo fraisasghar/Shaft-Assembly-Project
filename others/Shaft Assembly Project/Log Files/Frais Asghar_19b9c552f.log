@@ -1,0 +1,1360 @@
+[ AutoCAD - Thu Jan 02 11:59:56 2025  ]----------------------------------------
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+Regenerating layout.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: CMPH_LLSTART
+Initializing LiveLink for COMSOL
+Customization file loaded successfully. Customization Group: AMPP
+Customization file loaded successfully. Customization Group: AMACAD
+Customization file loaded successfully. Customization Group: MODELDOC
+Customization file loaded successfully. Customization Group: EXPRESS
+Customization file loaded successfully. Customization Group: APPMANAGER
+Customization file loaded successfully. Customization Group: FEATUREDAPPS
+Customization file loaded successfully. Customization Group: LIVELINKFORCOMSOL
+
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: ampoweredit
+
+
+Command: 
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: 
+.QUICKPROPERTIES
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+.QUICKPROPERTIES
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _polygon Enter number of sides <4>: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+
+Base and 3 projected view(s) created successfully.
+Command: 
+VIEWBASE
+
+Specify model source [Model space/File] <Model space>: 
+
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+
+Enter a view creation option [Base only/base and Projected] <Base and Projected>: 
+
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+
+Enter a view creation option [Base only/base and Projected] <Base and Projected>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: *Cancel*
+
+Command: '_amlayer 
+Select viewports:*Cancel*
+
+Regen queued.Regenerating layout.
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: *Cancel*
+
+Command: 
+Command: _pline 
+Specify start point: 
+Current line-width is 0.0000
+Specify next point or [Arc/Halfwidth/Length/Undo/Width]: 
+Specify next point or [Arc/Close/Halfwidth/Length/Undo/Width]: *Cancel*
+*Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: '_amlayer 
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: *Cancel*
+
+Command: '_amlayer 
+Select objects: *Cancel*
+
+Regen queued.Regenerating layout.
+
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: *Cancel*
+
+Command: LAYER
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+*Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LAYER 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 SPLINE 
+Command: 
+
+
+
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+
+
+
+
+
+Command: 
+
+
+
+
+
+Command: 
+Command: 
+Command: _ellipse 
+Specify axis endpoint of ellipse or [Arc/Center]: _c 
+Specify center of ellipse: 
+Specify endpoint of axis: 
+Specify distance to other axis or [Rotation]: *Cancel*
+
+Command: 
+
+
+
+
+
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: '_amlayer 
+Regen queued.Regenerating layout.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+
+Command: 
+Command: '_.VPLAYER
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: _FREEZE
+
+Enter layer name(s) to freeze or <specify layers by object selection>: =0
+
+Specify viewport(s) [All/Select/Current/eXcept current] <Current>: _CURRENT
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: 
+
+Command: 
+Command: '_.VPLAYER
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: _THAW
+
+Enter layer name(s) to thaw: =0
+
+Specify viewport(s) [All/Select/Current/eXcept current] <Current>: _CURRENT
+Enter an option [?/Color/Ltype/LWeight/TRansparency/Freeze/Thaw/Reset/reMoveoverrides/Newfrz/Vpvisdflt]: 
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _OFF
+
+Enter name list of layer(s) to turn off or <select objects>: =0
+Really want layer "0" (the CURRENT layer) off? <N> _Yes
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: '_.-LAYER
+
+Current layer:  "0"
+>>Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _ON
+
+>>Enter name list of layer(s) to turn on: =0
+>>Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Resuming LINE command.
+
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: _.VIEWSTD 
+Command: _.PAGESETUP 
+Command: _.PAGESETUP 
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <1>: 0 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_fa0a8a01.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _spline 
+Current settings: Method=Fit   Knots=Chord
+Specify first point or [Method/Knots/Object]: 
+Enter next point or [start Tangency/toLerance]: 
+Enter next point or [end Tangency/toLerance/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _cullingobj 
+Enter new value for CULLINGOBJ <0>: 1 
+Command:  <Ortho on> 
+Command:  <Ortho off> 
+Command:  <Ortho on> 
+Command:  <Ortho off> 
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 250
+
+Enter name list of layer(s) for color 250 <0>: =0
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: Zero length line created at (5.3732, 5.6654, 0.0000)
+
+Specify next point or [Close/Undo]: 
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: '_amlayer Regenerating layout.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: '_amlayer 
+Regen queued.Regenerating layout.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 9 found
+
+Command: 
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _amlaymove 
+Select objects: *Cancel*
+
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Crossing Lasso  Press Spacebar to cycle options
+Command: _.erase 1 found
+
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "Black"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 250
+
+Enter name list of layer(s) for color 250 <Black>: =Black
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: *Cancel*
+*Cancel*
+
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: '_.-LAYER
+
+Current layer:  "Black"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: _COLOR
+
+New color [Truecolor/COlorbook] : 250
+
+Enter name list of layer(s) for color 250 <Black>: =Black
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: 
+
+Command: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+
+Command:  
+Command:  
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _rectang 
+Specify first corner point or [Chamfer/Elevation/Fillet/Thickness/Width]: 
+Specify other corner point or [Area/Dimensions/Rotation]: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: *Cancel*
+
+Command: 
+Command: 
+Command: _UNITS 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: Zero length line created at (0.0430, 6.7117, 0.0000)
+
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: Zero length line created at (0.0430, 5.6190, 0.0000)
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: *Cancel*
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_fa0a8a01.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _VIEWBASE 
+Specify model source [Model space/File] <Model space>: _M 
+Type = Base and Projected  Hidden Lines = Visible and hidden lines  Scale = 3/8" = 1'-0"
+Specify location of base view or [Type/sElect/Orientation/Hidden lines/Scale/Visibility] <Type>: 
+Select option [sElect/Orientation/Hidden lines/Scale/Visibility/Move/eXit] <eXit>: X
+
+Specify location of projected view or <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+Specify location of projected view or [Undo/eXit] <eXit>: 
+
+Base and 2 projected view(s) created successfully.
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:*Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_fa0a8a01.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 TEXT 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 LINE 
+Command: 
+Command: 
+Command: _.mredo 
+Enter number of actions or [All/Last]: 1 TEXT 
+Everything has been redone
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 INTELLIZOOM INTELLIZOOM 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 TEXT 
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: *Cancel*
+
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: 
+Command: _SAVEAS 
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: *Cancel*
+
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Command: TEXT
+
+Current text style:  "STANDARD"  Text height:  0.2000  Annotative:  No  Justify:  Left
+Specify start point of text or [Justify/Style]: 
+Specify height <0.2000>: 
+Specify rotation angle of text <0>: 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_4940_fa0a8a01.sv$ ...
+
+Command: 
+Command: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: *Cancel*
+
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 Grip Edit 
+Command: 
+Command: 
+Command: _.undo Current settings: Auto = Off, Control = All, Combine = Yes, Layer = Yes
+Enter the number of operations to undo or [Auto/Control/BEgin/End/Mark/Back] <1>: 1 ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: *Cancel*
+
+Command: 
+Command: 
+ 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _QSave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Model>
+Restoring cached viewports.
+
+Command: 
+Command: 
+Command: _QSave 
+Command: 
+Command: 
+Command: _SAVEAS 
+Command: _.PAGESETUP 
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Command: 
+Command: 
+Command: _PLOT Effective plotting area:  297.00 wide by 174.73 high
+
+Command:  
+Command: D
+DIMSTYLE 
+Command: D
+DIMSTYLE 
+Automatic save to C:\Users\FASGHA~1.UG2\AppData\Local\Temp\Frais Asghar_1_20851_a4d13f0e.sv$ ...
+
+Command: 
+Command: 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: D
+DIMSTYLE 
+Command: 
+Command: 
+Command: _PLOT 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+Effective plotting area:  297.00 wide by 171.72 high
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:   <Switching to: Layout1>
+Restoring cached viewports - Regenerating layout.
+Regenerating 15 modified entities.
+
+Command: 
+Command: 
+Command: _PLOT 
+Some viewports on the layout were not created using ACM commands.  These viewports will not be scaled.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Specify window for printing
+Specify first corner: Specify opposite corner: *Cancel*
+
+Specify window for printing
+Specify first corner: Specify opposite corner: 
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _PLOT 
+Some viewports on the layout were not created using ACM commands.  These viewports will not be scaled.
+
+Press ESC or ENTER to exit, or right-click to display shortcut menu.
+Effective plotting area:  287.00 wide by 176.00 high
+Effective plotting area:  91.08 wide by 36.75 high
+
+Plotting viewport 11.
+Effective plotting area:  35.88 wide by 36.75 high
+
+Plotting viewport 13.
+Effective plotting area:  91.08 wide by 35.86 high
+
+Plotting viewport 15.
+
+Plotting viewport 1.
+
+Command: 
+Command: 
+Command: _QSave 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
