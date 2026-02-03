@@ -146,4 +146,17 @@ This project successfully demonstrated the application of advanced CAD modeling 
 </div>
 
 
+---
+<div align="center">
+
+🎉 **Enjoy Your CAD Masterpiece!** 🎉
+
+If this project helped or inspired you,  
+give it a ⭐ **Star** on GitHub!
+
+**Built with precision ❤️ for the Engineering Community**  
+**Happy Designing!** ✨
+
+</div>
+
 
