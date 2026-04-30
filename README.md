@@ -30,10 +30,10 @@ This project involves **comprehensive CAD modeling and technical analysis** of a
 
 | Objective | Description | Status |
 |-----------|-------------|---------|
-| **Precision Modeling** | Develop high-fidelity 3D model of mechanical shaft with varying diameters | ✅ Completed |
-| **Technical Interpretation** | Translate complex orthographic dimensions into 3D isometric representation | ✅ Completed |
-| **Design for Assembly** | Ensure proper tolerance and alignment between components | ✅ Completed |
-| **Geometric Fidelity** | Apply specific radii and hole diameters per specifications | ✅ Completed |
+| **Precision Modeling** | Develop high-fidelity 3D model of mechanical shaft with varying diameters |  Completed |
+| **Technical Interpretation** | Translate complex orthographic dimensions into 3D isometric representation |  Completed |
+| **Design for Assembly** | Ensure proper tolerance and alignment between components |  Completed |
+| **Geometric Fidelity** | Apply specific radii and hole diameters per specifications |  Completed |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Accuracy-99.8%25-brightgreen?style=flat-square" />
@@ -45,7 +45,7 @@ This project involves **comprehensive CAD modeling and technical analysis** of a
 This project involves comprehensive CAD modeling and technical analysis of a stepped mechanical shaft and its integrated support bracket. The design was executed to meet specific geometric constraints and engineering standards, focusing on functional assembly and structural integrity.
 
 
-<img width="1095" height="742" alt="image" src="https://github.com/user-attachments/assets/77108ef6-64d9-4ec7-9cba-5dfb6a9bd46c" />
+<img alt="image" src="https://github.com/user-attachments/assets/77108ef6-64d9-4ec7-9cba-5dfb6a9bd46c" />
 
 
 
@@ -70,7 +70,7 @@ The green support component serves as the stationary base:
 - **Hole Geometry:** Includes two Φ0.07 mounting holes positioned with a Φ60.07mm span.
 - **Structural Support:** Features a Φ38.22mm height with a central bore to accommodate the hexagonal/rounded interface of the shaft.
 
-<img width="354" height="428" alt="image" src="https://github.com/user-attachments/assets/68df9b18-142e-49fb-9a4a-774749ebf378" />
+<img alt="image" src="https://github.com/user-attachments/assets/68df9b18-142e-49fb-9a4a-774749ebf378" />
 
 
 
@@ -96,7 +96,7 @@ The development process was conducted through the following stages:
 3. **Refinement:** Fillets and radii (R0.07 on the bracket corners) were applied to ensure ergonomic handling and mechanical durability.
 4. **Verification:** A final check of the Φ43.03mm, Φ63.01mm, and Φ38.22mm clearance dimensions was performed to confirm assembly fitment.
 
-<img width="559" height="390" alt="image" src="https://github.com/user-attachments/assets/45f30258-929c-449e-a731-9a4c82b152e6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/45f30258-929c-449e-a731-9a4c82b152e6" />
 
 
 
@@ -138,10 +138,10 @@ This project successfully demonstrated the application of advanced CAD modeling 
   
   | Metric | Value | Status |
   |--------|-------|--------|
-  | **Model Accuracy** | 99.8% | ✅ |
-  | **Tolerance Compliance** | 100% | ✅ |
-  | **Assembly Fit** | Perfect | ✅ |
-  | **Design Completeness** | Production-ready | ✅ |
+  | **Model Accuracy** | 99.8% | Perfect |
+  | **Tolerance Compliance** | 100% | Perfect |
+  | **Assembly Fit** | Perfect | Perfect |
+  | **Design Completeness** | Production-ready | Perfect |
 
 </div>
 
